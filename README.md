@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Marco;I+program+robots;Check+out+my+repositories!)](https://git.io/typing-svg)
 <!--
