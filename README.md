@@ -1,4 +1,4 @@
-p## Greetings 👋
+Greetings 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Marco;I+program+robots+and+small+apps;Check+out+my+repositories!)](https://git.io/typing-svg)
 <!--
